@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ciphersquad
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ciphersquad.github.io
+  * I am ciphersquad (https://keybase.io/ciphersquad) on keybase.
+  * I have a public key with fingerprint 4638 5B1A 4F48 D79D 71EE  3712 E154 6E1B B2BC 8177
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010139ef1f0072f4336bc0f59f8fb0154df485d73c351eab61006946c803d48003c10a",
+      "fingerprint": "46385b1a4f48d79d71ee3712e1546e1bb2bc8177",
+      "host": "keybase.io",
+      "key_id": "e1546e1bb2bc8177",
+      "kid": "010139ef1f0072f4336bc0f59f8fb0154df485d73c351eab61006946c803d48003c10a",
+      "uid": "05c7e72f1ae81676959e8575a4e3cb19",
+      "username": "ciphersquad"
+    },
+    "service": {
+      "hostname": "ciphersquad.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568147595,
+  "expire_in": 157680000,
+  "prev": "055d854408ea3736d6c3163e2b771c069d26fba62893ffa993101c4c85de6cf2",
+  "seqno": 2,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIrAnicrZJ7SBRBHMfvMnucRskVQW82qLRTdnZ2Z3cviCjC0OqPopcl1z5mvOV0
+97rbs6xOoQcFQQZG9ERLQ3yEQWJCaSpGXRZIWtZfRRddUlERQVBUs1Z/1Z/9NczM
+9/uZ3/fL9E9Jc3ncjU+HK5suhgbdA731MVfxnknH9jGqpVcw/n1MCI8tuFTHUTsQ
+MnTGz7CABVDGBBCWFTnCQ4hUjSWCTCSiskDgdcJLgi5CDQoAKyoCLItkHmkSC3Ve
+YlmoAVZhfAwxzBIcCUcM06ZYHkFJUIHCU7cuyroIMIYi4DAlIgxUlVM1CYgiNQat
+qOOgw6lKFOcZFj2jm8DYeP/Q/+e5Y79wgiZiygEKlgASkSzIWBJEQeEx1FQgO8Io
+jphKGaZqzQgHcSS6K6boTNzH0ItyQ8NOt06Yv0V5JYYdjKm/soUjlm1pVimVBG07
+HPU7CLsi7Hh2YzXwmxZQDVOnnVJHOcUYlsn4AVVqtuHggYAkwIuCLPgYvCdsRHDA
+cBSCiGg4lnXeweVjyQRdEnielbACRYh0pEGAIOZUUQQa7UTnEFEVxEkyJESRZUib
+1XiNloeRRjjGybfLtBg/R8dUSigyapSYih2LYCbe17NjvMvtcU1IH+f8NZdn8rQ/
+PzC1deIPXf6QaOk883V//YzZ6ZuLrM8LdnfUdbg/GV89M6YWHBsdP1yQBPmP11wy
+0eP+2VZXT+jJllQV+Da07HYwI20ZU9n94MXM801vE9PnzvIU32o+kZ2ZeH//0cj1
+DbV37KzL1Qu7yLVY94VUDvS+as1OPiv0Dillo9tvJr7vPb5YmdfYu/TAiubwobff
+AcmHOP3NoaPv3522V3ceNdc+WdN/ZG3WutSVUm9N+5nRL6/m1M0/uM36MJhzlry+
+0ZZ5ri93SUtuBVm5oGYka+TkPf9AxstFtXqDkdn8sepsWnXy8M5h79XCePs7X7z1
+86blGzOey8nnbVnrC+cUrbJ6Hn4LnGq4+xPJYUl+
+=eL3i
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ciphersquad
+
+==================================================================
